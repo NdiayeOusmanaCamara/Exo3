@@ -1,5 +1,6 @@
 1. Planification du projet
-2. Conception
+2. Analyse des besoins
 3. Développement
-4. Tests
+4. Révisions
 5. Déploiement
+6. Maintenance
