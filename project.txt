@@ -1,5 +1,6 @@
 1. Planification du projet
-2. Conception
-3. Développement
+2. Conception détaillée
+3. Développement initial
 4. Tests
 5. Déploiement
+6. Revue post-déploiement
