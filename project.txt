@@ -1,0 +1,5 @@
+1. Planification du projet
+2. Conception
+3. Développement
+4. Tests
+5. Déploiement
