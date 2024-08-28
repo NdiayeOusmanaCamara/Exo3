@@ -4,3 +4,8 @@
 4. Tests
 5. Déploiement
 6. Revue post-déploiement
+7. Analyse des besoins
+8. Développement
+9. Révisions
+10. Maintenance
+
